@@ -1,286 +1,291 @@
-# 🌟 DynoCollect
+# 🚀 DynoCollect: AI-Powered Data Collection Revolution
 
 <div align="center">
 
-**📊 DynoCollect - Multi-Format Data Collection Platform**
+![DynoCollect Logo](https://img.shields.io/badge/DynoCollect-Multi%20Format%20Collection-blue?style=for-the-badge&logo=database&logoColor=white)
 
-*A modern, secure web application for seamless user contribution management*  
-*Text • Audio • Video • Images*
+### 📊 A Revolutionary Multi-Format Data Collection Platform
+  
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-success?style=for-the-badge)](https://dynocollet.streamlit.app)
+[![GitHub Stars](https://img.shields.io/badge/⭐_Star_This_Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?style=for-the-badge&logo=python)](https://python.org)
 
-[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+*Transforming data collection through intelligent multi-format contribution management*
 
-*Built during internship at **VISWAM.AI** • Coordinated with **IIIT Hyderabad** & **Swecha Telangana***
-
-[🎯 Features](#-features) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-api-documentation) • [👥 Team](#-team) • [🏢 About](#-about-this-project)
+</div>
 
 ---
 
-</div>
+## 🌟 Overview
 
-## 📋 Table of Contents
+**DynoCollect** is a cutting-edge, secure web application that revolutionizes how organizations collect and manage user-contributed data. Built during our internship at **VISWAM.AI** and coordinated with **IIIT Hyderabad** & **Swecha Telangana**, our platform seamlessly handles text, audio, video, and image contributions through a modern, intuitive interface.
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
-- [🚀 Quick Start](#-quick-start)
-- [⚙️ Installation & Setup](#️-installation--setup)
-- [🗃️ Database & Storage Setup](#️-database--storage-setup)
-- [📖 API Documentation](#-api-documentation)
-- [☁️ Deployment Guide](#️-deployment-guide)
-- [🔐 Security Features](#-security-features)
-- [🧪 Troubleshooting](#-troubleshooting)
-- [👥 Team](#-team)
-- [🏢 About This Project](#-about-this-project)
-- [🤝 Contributing](#-contributing)
+Powered by **Supabase** for backend services and **Streamlit** for the frontend experience, DynoCollect delivers enterprise-grade security with consumer-friendly usability, making data collection effortless and engaging for both contributors and administrators.
 
-## ✨ Features
+---
 
-<div align="center">
+## ✨ Key Features
 
-### 🎯 **Core Capabilities**
+### 🎯 **Multi-Format Data Collection**
+- **Text Contributions**: Rich text input with advanced formatting support
+- **Audio Uploads**: High-quality audio recording and file upload capabilities
+- **Video Processing**: Seamless video upload with format validation
+- **Image Management**: Drag-and-drop image uploads with preview functionality
 
-| 🔐 **Secure Authentication** | 📁 **Multi-Format Upload** | 💾 **Cloud Storage** | 🎨 **Modern Interface** |
-|:---:|:---:|:---:|:---:|
-| Supabase Auth integration | Audio, Video, Images, Text | Real-time data sync | Streamlit-powered UI |
-| JWT token management | Drag & drop uploads | Automatic backups | Responsive design |
-| Session persistence | File type validation | Scalable architecture | Progress indicators |
-| Password encryption | Size limit controls | CDN delivery | Error handling |
+### 🔐 **Enterprise-Grade Security**
+- **Supabase Authentication**: Secure user registration and login system
+- **JWT Token Management**: Industry-standard token-based authentication
+- **Row-Level Security**: Database-level access control for maximum privacy
+- **File Validation**: Comprehensive file type and size validation
 
-</div>
+### 📊 **Real-Time Data Management**
+- **Instant Synchronization**: Real-time data sync across all devices
+- **Progress Tracking**: Live upload progress with detailed status updates
+- **Cloud Storage Integration**: Scalable file storage with CDN delivery
+- **Contribution History**: Complete audit trail of all user activities
 
-### 🌟 **What Makes DynoCollect Special?**
+### 🎨 **Modern User Experience**
+- **Responsive Design**: Seamless experience across desktop, tablet, and mobile
+- **Intuitive Interface**: Clean, modern UI designed for optimal user engagement
+- **Drag & Drop**: Effortless file uploads with visual feedback
+- **Real-time Feedback**: Instant validation and confirmation messages
 
-- **🚀 Lightning Fast**: Optimized for performance with async operations
-- **🛡️ Enterprise Security**: Industry-standard authentication and data protection
-- **📱 Universal Access**: Works seamlessly across all devices and browsers
-- **⚡ Real-time Sync**: Instant data synchronization across sessions
-- **🎯 Developer Friendly**: Clean API design with comprehensive documentation
-- **☁️ Cloud Native**: Built for scale with modern cloud architecture
+### 🌐 **Developer-Friendly Architecture**
+- **RESTful API**: Clean, well-documented API endpoints
+- **Modular Design**: Scalable architecture with separation of concerns
+- **Easy Integration**: Simple setup and deployment process
+- **Comprehensive Documentation**: Detailed guides for developers and users
 
-## 🛠️ Tech Stack & Architecture
+---
 
-<div align="center">
+## 🎯 Quick Start
 
-### **Frontend**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔧 Prerequisites
 
-### **Backend**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-### **Database & Storage**
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### 🏗️ **System Architecture**
-
-```mermaid
-graph TB
-    A[Streamlit Frontend] --> B[Flask API Backend]
-    B --> C[Supabase Auth]
-    B --> D[Supabase Database]
-    B --> E[Supabase Storage]
-    
-    C --> F[JWT Tokens]
-    D --> G[Contributions Table]
-    E --> H[File Buckets]
-    
-    H --> I[Audio Files]
-    H --> J[Video Files]  
-    H --> K[Image Files]
-    
-    style A fill:#ff4b4b,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
-```
-
-## 🚀 Quick Start
-
-### 📋 **Prerequisites**
-
-> ⚠️ **Important**: Use **Python 3.10 or 3.11** for optimal compatibility  
-> (Python 3.13 has known issues with Pillow dependencies)
-
-- **Python 3.10-3.11** 🐍
-- **Supabase Account** ☁️
-- **Git** 📦
-- **FFmpeg** (optional, for media processing) 🎬
-
-### ⚡ **30-Second Setup**
+Before you begin, ensure you have the following installed:
 
 ```bash
-# 1. Clone and navigate
-git clone https://github.com/mohan13krishna/DynoCollect.git
-cd DynoCollect
-
-# 2. Create virtual environment (RECOMMENDED)
-python -m venv .venv
-
-# Windows
-.venv\Scripts\activate
-
-# macOS/Linux  
-source .venv/bin/activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Quick launch (Windows)
-.\run.ps1
-
-# 🎉 Access your app at:
-# Frontend: http://localhost:8501
-# Backend API: http://localhost:5000
+Python 3.10 or 3.11 (REQUIRED - avoid 3.13 due to Pillow compatibility)
+Supabase Account (free tier available)
+Git version control
+FFmpeg (optional, for advanced media processing)
 ```
 
-## ⚙️ Installation & Setup
+### 📦 Installation
 
-### 📁 **Project Structure**
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mohan13krishna/DynoCollect.git
+   cd DynoCollect
+   ```
+
+2. **Set Up Virtual Environment**
+   ```bash
+   # Windows
+   python -m venv .venv
+   .venv\Scripts\activate
+   
+   # macOS/Linux
+   python -m venv .venv
+   source .venv/bin/activate
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Configure Environment**
+   
+   Create `.env` file in root directory:
+   ```env
+   # Supabase Configuration
+   SUPABASE_URL=https://your-project.supabase.co
+   SUPABASE_KEY=your_supabase_anon_key
+   
+   # Flask Security
+   SECRET_KEY=your_super_secure_flask_secret_key_here
+   CORS_ALLOWED_ORIGINS=http://localhost:8501
+   
+   # API Configuration
+   API_URL=http://localhost:5000
+   ```
+
+5. **Launch Application**
+   
+   **Windows (Automated):**
+   ```bash
+   .\run.ps1
+   ```
+   
+   **Manual Start:**
+   ```bash
+   # Terminal 1 - Backend Server
+   cd app/backend
+   python app.py
+   
+   # Terminal 2 - Frontend App
+   cd app/frontend
+   streamlit run app.py
+   ```
+
+6. **Access Platform**
+   
+   - **Frontend**: `http://localhost:8501`
+   - **Backend API**: `http://localhost:5000`
+
+---
+
+## 🏗️ Project Architecture
 
 ```
 DynoCollect/
 ├── 📁 app/
 │   ├── 📁 backend/
-│   │   ├── 🚀 app.py                # Flask API server with auth routes
-│   │   ├── ☁️ s3_uploader.py        # Supabase Storage SDK (multipart uploads)
-│   │   └── 📤 example_upload.py     # Example file upload scripts
+│   │   ├── 🚀 app.py                # Flask API server with authentication
+│   │   ├── ☁️ s3_uploader.py        # Supabase Storage SDK integration
+│   │   └── 📤 example_upload.py     # Example scripts and utilities
 │   └── 📁 frontend/
-│       └── 🎨 app.py                # Streamlit UI with authentication
+│       └── 🎨 app.py                # Streamlit UI with modern design
 ├── 🔐 .env                          # Environment configuration
 ├── 📋 requirements.txt              # Python dependencies
 ├── 🚀 run.ps1                       # Windows launcher script
-└── 📖 README.md                     # This awesome documentation!
+├── 📖 README.md                     # Comprehensive documentation
+└── 📄 LICENSE                       # MIT License
 ```
 
-### 🔐 **Environment Configuration**
+---
 
-Create a `.env` file in the root directory:
+## 🔧 Configuration Guide
 
-```env
-# 🔗 Supabase Configuration
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_KEY=your_supabase_anon_key
+### 🗄️ Supabase Setup
 
-# 🔐 Flask Security
-SECRET_KEY=your_super_secure_flask_secret_key_here
-CORS_ALLOWED_ORIGINS=http://localhost:8501,https://your-domain.com
+1. **Create Supabase Project**
+   - Visit [Supabase.com](https://supabase.com/)
+   - Create a new project
+   - Note your Project URL and API Key
 
-# 🌐 Frontend Configuration  
-API_URL=http://localhost:5000
+2. **Database Schema Setup**
+   
+   Run this SQL in your Supabase SQL Editor:
+   ```sql
+   -- Create contributions table
+   CREATE TABLE IF NOT EXISTS contributions (
+     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+     user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+     text_data TEXT,
+     audio_url TEXT,
+     video_url TEXT, 
+     image_url TEXT,
+     metadata JSONB DEFAULT '{}',
+     submitted_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+   );
+   
+   -- Enable Row Level Security
+   ALTER TABLE contributions ENABLE ROW LEVEL SECURITY;
+   
+   -- Create security policies
+   CREATE POLICY "Users can view own contributions" ON contributions
+     FOR SELECT USING (auth.uid() = user_id);
+     
+   CREATE POLICY "Users can insert own contributions" ON contributions  
+     FOR INSERT WITH CHECK (auth.uid() = user_id);
+   ```
 
-# 📊 Optional: Analytics & Monitoring
-# SENTRY_DSN=your_sentry_dsn
-# GOOGLE_ANALYTICS_ID=your_ga_id
+3. **Storage Buckets Configuration**
+   
+   Create these public buckets in Supabase Storage:
+   - `audio` - For audio files (max 50MB)
+   - `video` - For video files (max 100MB)
+   - `images` - For image files (max 10MB)
+
+### 🔐 Security Configuration
+
+Generate secure keys:
+```python
+import secrets
+SECRET_KEY = secrets.token_hex(32)
 ```
 
-### 🏃‍♂️ **Running the Application**
+---
 
-#### **Option A: Automated (Windows)**
-```powershell
-.\run.ps1
-```
+## 📚 How to Use DynoCollect
 
-#### **Option B: Manual Start**
+### 1️⃣ **Getting Started**
+- Launch the application using the quick start guide
+- Create a new account or sign in with existing credentials
+- Complete your profile setup and preferences
 
-**Terminal 1 - Backend Server:**
-```bash
-cd app/backend
-python app.py
-# 🚀 Flask server running at http://localhost:5000
-```
+### 2️⃣ **Text Contributions**
+- Navigate to the "Text Submission" section
+- Enter your text content in the rich editor
+- Add any relevant tags or metadata
+- Submit for instant processing and storage
 
-**Terminal 2 - Frontend App:**
-```bash
-cd app/frontend  
-streamlit run app.py
-# 🎨 Streamlit app running at http://localhost:8501
-```
+### 3️⃣ **Media Uploads**
+- Go to the "Media Upload" section
+- Choose your file type (Audio/Video/Images)
+- Drag and drop files or use the file picker
+- Monitor upload progress in real-time
+- Receive confirmation upon successful upload
 
-## 🗃️ Database & Storage Setup
+### 4️⃣ **Contribution Management**
+- Check the "My Contributions" dashboard
+- Review all your submitted content
+- Edit or delete contributions as needed
+- Export your data in various formats
 
-### 📊 **Database Schema**
+---
 
-Run this SQL in your Supabase SQL Editor:
+## 🛠️ Technical Stack
 
-```sql
--- 📝 Create contributions table
-CREATE TABLE IF NOT EXISTS contributions (
-  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
-  text_data TEXT,
-  audio_url TEXT,
-  video_url TEXT, 
-  image_url TEXT,
-  metadata JSONB DEFAULT '{}',
-  submitted_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
-  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-);
+<div align="center">
 
--- 📈 Performance indexes
-CREATE INDEX IF NOT EXISTS idx_contributions_user_id ON contributions(user_id);
-CREATE INDEX IF NOT EXISTS idx_contributions_date ON contributions(submitted_at DESC);
-CREATE INDEX IF NOT EXISTS idx_contributions_type ON contributions(
-  (CASE 
-    WHEN text_data IS NOT NULL THEN 'text'
-    WHEN audio_url IS NOT NULL THEN 'audio' 
-    WHEN video_url IS NOT NULL THEN 'video'
-    WHEN image_url IS NOT NULL THEN 'image'
-  END)
-);
+### **Frontend Technologies**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
--- 🔒 Row Level Security (RLS)
-ALTER TABLE contributions ENABLE ROW LEVEL SECURITY;
+### **Backend Technologies**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
--- Users can only see their own contributions
-CREATE POLICY "Users can view own contributions" ON contributions
-  FOR SELECT USING (auth.uid() = user_id);
-  
-CREATE POLICY "Users can insert own contributions" ON contributions  
-  FOR INSERT WITH CHECK (auth.uid() = user_id);
-```
+### **Database & Cloud Services**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📁 **Storage Buckets**
+</div>
 
-Create these buckets in Supabase Storage:
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| **Frontend** | Streamlit | Interactive web interface |
+| **Backend** | Flask + Gunicorn | RESTful API server |
+| **Database** | Supabase (PostgreSQL) | Secure data storage |
+| **Authentication** | Supabase Auth | User management & JWT |
+| **File Storage** | Supabase Storage | Scalable cloud storage |
+| **Security** | Row-Level Security | Data privacy & access control |
 
-| Bucket | Purpose | Public Access | File Types |
-|--------|---------|---------------|------------|
-| `audio` | Audio files | ✅ | MP3, WAV, OGG |
-| `video` | Video files | ✅ | MP4, MOV, AVI |  
-| `images` | Image files | ✅ | JPEG, PNG, GIF |
-
-**File Size Limits:**
-- 🎵 **Audio**: 50MB max
-- 🎬 **Video**: 100MB max  
-- 🖼️ **Images**: 10MB max
-- 📝 **Text**: 10,000 characters max
+---
 
 ## 📖 API Documentation
 
 ### 🔑 **Authentication Endpoints**
 
-| Method | Endpoint | Description | Payload | Response |
-|--------|----------|-------------|---------|----------|
+| Method | Endpoint | Description | Request Body | Response |
+|--------|----------|-------------|--------------|----------|
 | `POST` | `/auth/register` | Register new user | `{email, password}` | `{user, session}` |
-| `POST` | `/auth/login` | User login | `{email, password}` | `{user, session}` |
+| `POST` | `/auth/login` | User login | `{email, password}` | `{access_token, user}` |
 | `POST` | `/auth/logout` | User logout | `{session_token}` | `{success: true}` |
-| `GET` | `/auth/user` | Get user info | Headers: `Authorization` | `{user_data}` |
+| `GET` | `/auth/user` | Get user profile | Headers: `Authorization` | `{user_data}` |
 
 ### 📊 **Data Collection Endpoints**
 
 | Method | Endpoint | Description | Content-Type | Max Size |
 |--------|----------|-------------|--------------|----------|
-| `POST` | `/submit-text` | Submit text data | `application/json` | 10KB |
+| `POST` | `/submit-text` | Submit text data | `application/json` | 10,000 chars |
 | `POST` | `/upload-audio` | Upload audio files | `multipart/form-data` | 50MB |
 | `POST` | `/upload-video` | Upload video files | `multipart/form-data` | 100MB |
 | `POST` | `/upload-image` | Upload image files | `multipart/form-data` | 10MB |
@@ -291,62 +296,61 @@ Create these buckets in Supabase Storage:
 ```python
 import requests
 
-# Login
+# User Authentication
 response = requests.post('http://localhost:5000/auth/login', json={
     'email': 'user@example.com',
     'password': 'secure_password'
 })
-session = response.json()
+auth_data = response.json()
 
-# Upload file
-headers = {'Authorization': f"Bearer {session['access_token']}"}
-files = {'file': open('example.mp3', 'rb')}
+# File Upload with Authentication
+headers = {'Authorization': f"Bearer {auth_data['access_token']}"}
+files = {'file': open('example_audio.mp3', 'rb')}
+
 response = requests.post('http://localhost:5000/upload-audio', 
                         files=files, headers=headers)
+upload_result = response.json()
 ```
 
-## ☁️ Deployment Guide
+---
 
-### 🚀 **Recommended Platforms**
+## 🚀 Deployment Guide
+
+### ☁️ **Recommended Platforms**
 
 #### **Backend Deployment**
 - [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com) **Render** (Recommended)
-- [![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)](https://railway.app) **Railway**  
+- [![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)](https://railway.app) **Railway**
 - [![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=fly.io&logoColor=white)](https://fly.io) **Fly.io**
 
-**Start Command:**
+**Production Start Command:**
 ```bash
 gunicorn app.backend.app:app --bind 0.0.0.0:$PORT --timeout 900 --workers 2
 ```
 
-#### **Frontend Deployment**  
-- [![Streamlit Cloud](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io) **Streamlit Community Cloud**
+#### **Frontend Deployment**
+- [![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io) **Streamlit Community Cloud** (Recommended)
 - **Render** (as web service)
+- **Heroku** (with buildpack)
 
-### 🔧 **Production Environment Variables**
+### 🔐 **Production Environment Setup**
 
 ```env
-# Production URLs
-SUPABASE_URL=https://your-prod-project.supabase.co
-SUPABASE_KEY=your_production_key
-API_URL=https://your-backend.onrender.com
-SECRET_KEY=your_production_secret_key
+# Production Configuration
+SUPABASE_URL=https://your-production-project.supabase.co
+SUPABASE_KEY=your_production_anon_key
+API_URL=https://your-backend-app.onrender.com
+SECRET_KEY=your_ultra_secure_production_key
 
-# Security
-CORS_ALLOWED_ORIGINS=https://your-frontend.streamlit.app
+# Security & CORS
+CORS_ALLOWED_ORIGINS=https://your-app.streamlit.app
 FLASK_ENV=production
 
-# Optional monitoring
-SENTRY_DSN=your_sentry_dsn
+# Optional Monitoring
+SENTRY_DSN=your_sentry_dsn_for_error_tracking
 ```
 
-### ⚠️ **Deployment Considerations**
-
-- **Python Version**: Use 3.10 or 3.11 runtime
-- **Timeout Settings**: Configure for large file uploads (15+ minutes)
-- **CORS Configuration**: Update allowed origins for your domain
-- **SSL/HTTPS**: Enable HTTPS for production security
-- **File Storage**: Consider CDN for better performance
+---
 
 ## 🔐 Security Features
 
@@ -354,138 +358,183 @@ SENTRY_DSN=your_sentry_dsn
 
 ### 🛡️ **Multi-Layer Security Architecture**
 
-| Layer | Feature | Implementation |
-|-------|---------|----------------|
-| **🔐 Authentication** | JWT Tokens | Supabase Auth |
-| **🛡️ Authorization** | Row Level Security | PostgreSQL RLS |
-| **🔒 Data Protection** | Encryption at Rest | Supabase encryption |
-| **🚫 Input Validation** | File Type/Size Checks | Flask validators |
+| Security Layer | Implementation | Technology |
+|:---:|:---:|:---:|
+| **🔐 Authentication** | JWT Token Management | Supabase Auth |
+| **🛡️ Authorization** | Row-Level Security | PostgreSQL RLS |
+| **🔒 Data Encryption** | End-to-End Security | AES-256 Encryption |
+| **🚫 Input Validation** | File Type & Size Checks | Flask Validators |
 | **🌐 Network Security** | CORS Protection | Flask-CORS |
-| **📱 Session Management** | Secure Sessions | HTTP-only cookies |
+| **📱 Session Management** | Secure Cookie Handling | HTTP-only Cookies |
 
 </div>
 
-### 🔒 **Security Best Practices Implemented**
+### 🔒 **Security Best Practices**
 
-- ✅ **Password Security**: Handled entirely by Supabase Auth (bcrypt + salt)
-- ✅ **Token Management**: JWT with automatic refresh and secure storage  
-- ✅ **File Upload Security**: Type validation, size limits, virus scanning ready
-- ✅ **SQL Injection Prevention**: Parameterized queries throughout
-- ✅ **XSS Protection**: Input sanitization and output encoding
-- ✅ **CSRF Protection**: Token-based request validation
+- ✅ **Password Security**: Supabase handles all password encryption (bcrypt + salt)
+- ✅ **Token Management**: Automatic JWT refresh with secure storage
+- ✅ **File Upload Security**: Comprehensive validation and virus scanning ready
+- ✅ **SQL Injection Prevention**: All queries use parameterized statements
+- ✅ **XSS Protection**: Input sanitization and output encoding throughout
+- ✅ **CSRF Protection**: Token-based request validation on all endpoints
+
+---
 
 ## 🧪 Troubleshooting
 
 ### 🐛 **Common Issues & Solutions**
 
-#### **🔧 Installation Issues**
-
-**Problem**: Pillow build failure on Python 3.13
+#### **Python Version Compatibility**
 ```bash
+# Problem: Pillow installation fails
 ERROR: Failed building wheel for pillow
-```
-**Solution**: Use Python 3.10 or 3.11
-```bash
+
+# Solution: Use Python 3.10 or 3.11
 pyenv install 3.11.0
-pyenv local 3.11.0  
+pyenv local 3.11.0
 pip install -r requirements.txt
 ```
 
-#### **🌐 CORS Errors**
-
-**Problem**: Frontend can't connect to backend
-```
+#### **CORS Configuration Issues**
+```bash
+# Problem: Frontend can't connect to backend
 Access to fetch blocked by CORS policy
+
+# Solution: Update .env file
+CORS_ALLOWED_ORIGINS=http://localhost:8501,https://your-app.streamlit.app
 ```
-**Solution**: Update CORS_ALLOWED_ORIGINS in .env
-```env
-CORS_ALLOWED_ORIGINS=http://localhost:8501,https://yourapp.streamlit.app
+
+#### **File Upload Timeouts**
+```bash
+# Problem: Large files timing out
+# Solutions:
+# 1. Increase server timeout
+gunicorn --timeout 900 app:app
+
+# 2. Enable chunked uploads in your code
+# 3. Use direct S3 uploads for large files
 ```
 
-#### **⏱️ Upload Timeouts**
+### 📋 **Debug Configuration**
 
-**Problem**: Large file uploads timing out
-**Solutions**:
-- Increase server timeout: `--timeout 900` in Gunicorn
-- Use chunked uploads for files >100MB
-- Consider direct S3 uploads with pre-signed URLs
-
-#### **🔐 Authentication Issues**
-
-**Problem**: Users getting logged out frequently
-**Solutions**:
-- Check Supabase JWT expiry settings
-- Implement token refresh mechanism
-- Verify session storage configuration
-
-### 📊 **Debug Mode**
-
-Enable debug logging by adding to your .env:
+Enable comprehensive logging:
 ```env
 FLASK_ENV=development
 FLASK_DEBUG=True
 LOG_LEVEL=DEBUG
+SUPABASE_DEBUG=True
 ```
 
-## 👥 Team
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help make DynoCollect even better:
+
+### 🔀 **Contribution Process**
+
+1. **Fork the Repository**
+   ```bash
+   git fork https://github.com/mohan13krishna/DynoCollect.git
+   ```
+
+2. **Create Feature Branch**
+   ```bash
+   git checkout -b feature/amazing-improvement
+   ```
+
+3. **Make Your Changes**
+   - Follow PEP 8 coding standards
+   - Write comprehensive tests
+   - Update documentation as needed
+
+4. **Commit Changes**
+   ```bash
+   git commit -m "feat: add amazing new feature"
+   ```
+
+5. **Push to Branch**
+   ```bash
+   git push origin feature/amazing-improvement
+   ```
+
+6. **Create Pull Request**
+   - Describe your changes in detail
+   - Include screenshots for UI changes
+   - Link related issues
+
+### 🐛 **Bug Reports**
+
+Found a bug? Help us improve by reporting it:
+- Clear description of the issue
+- Steps to reproduce the problem
+- Expected vs actual behavior
+- Environment details (OS, Python version, etc.)
+
+### 💡 **Feature Requests**
+
+Have a great idea? We'd love to hear it:
+- Detailed feature description
+- Use case and benefits
+- Potential implementation approach
+- Mockups or examples (if applicable)
+
+---
+
+## 🌟 Meet Our Amazing Team
 
 <div align="center">
 
-### 🌟 **Team DynoCollect** - ACE Engineering College
-
-*Five passionate developers building the future of data collection*
+### 💫 The Brilliant Minds Behind DynoCollect 💫
+*Five passionate developers from ACE Engineering College*
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="20%">
-<img src="https://github.com/mohan13krishna.png" width="100px;" alt="Mohan Krishna"/><br>
-<sub><b>🎯 Mohan Krishna Thalla</b></sub><br>
-<sub>Team Lead & Full-Stack</sub><br>
-<sub>CSE 4th Year</sub><br>
 <a href="https://github.com/mohan13krishna">
-<img src="https://img.shields.io/badge/GitHub-mohan13krishna-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://github.com/mohan13krishna.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Mohan Krishna Thalla</b></h3>
+<h4>🎯 Team Lead & Full-Stack Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Architecting scalable solutions"</i></p>
 </a>
 </td>
-
 <td align="center" width="20%">
-<img src="https://github.com/rakeshkolipakaace.png" width="100px;" alt="Rakesh Kolipaka"/><br>
-<sub><b>🎨 Rakesh Kolipaka</b></sub><br>
-<sub>Frontend Developer</sub><br>
-<sub>CSE 4th Year</sub><br>
 <a href="https://github.com/rakeshkolipakaace">
-<img src="https://img.shields.io/badge/GitHub-rakeshkolipakaace-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://github.com/rakeshkolipakaace.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Rakesh Kolipaka</b></h3>
+<h4>🎨 Frontend Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Creating beautiful interfaces"</i></p>
 </a>
 </td>
-
 <td align="center" width="20%">
-<img src="https://github.com/Abhinav200519.png" width="100px;" alt="Abhinav Srinivas"/><br>
-<sub><b>⚙️ Abhinav Srinivas</b></sub><br>
-<sub>Backend Developer</sub><br>
-<sub>CSE 4th Year</sub><br>
 <a href="https://github.com/Abhinav200519">
-<img src="https://img.shields.io/badge/GitHub-Abhinav200519-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://github.com/Abhinav200519.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Abhinav Srinivas</b></h3>
+<h4>⚙️ Backend Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Building robust APIs"</i></p>
 </a>
 </td>
-
 <td align="center" width="20%">
-<img src="https://github.com/sainikith07.png" width="100px;" alt="Sai Nikith Kaleru"/><br>
-<sub><b>📊 Sai Nikith Kaleru</b></sub><br>
-<sub>Data Engineer</sub><br>
-<sub>CSD 4th Year</sub><br>
 <a href="https://github.com/sainikith07">
-<img src="https://img.shields.io/badge/GitHub-sainikith07-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://github.com/sainikith07.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Sai Nikith Kaleru</b></h3>
+<h4>📊 Data Engineer</h4>
+<p><i>CSD 4th Year</i></p>
+<p><i>"Optimizing data pipelines"</i></p>
 </a>
 </td>
-
 <td align="center" width="20%">
-<img src="https://github.com/rvrnihal.png" width="100px;" alt="Rao Ram Nihal"/><br>
-<sub><b>🧪 Rao Ram Nihal</b></sub><br>
-<sub>QA Tester</sub><br>
-<sub>CSE 4th Year</sub><br>
 <a href="https://github.com/rvrnihal">
-<img src="https://img.shields.io/badge/GitHub-rvrnihal-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://github.com/rvrnihal.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Rao Ram Nihal</b></h3>
+<h4>🧪 QA Engineer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Ensuring quality & reliability"</i></p>
 </a>
 </td>
 </tr>
@@ -493,52 +542,123 @@ LOG_LEVEL=DEBUG
 
 ---
 
-<div align="center">
+## 🏢 About This Project
+
+### 🎯 **Mission & Vision**
+
+#### 🚀 **Our Mission**
+*"Revolutionizing data collection through intelligent, secure, and user-friendly multi-format contribution platforms designed for the modern digital era."*
+
+#### 🎯 **Our Vision**
+*"Creating a world where data collection is seamless, secure, and accessible, empowering organizations to gather meaningful insights while respecting user privacy and providing exceptional experiences."*
 
 ### 🤝 **Partnership & Collaboration**
 
-[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=flat-square)](https://viswam.ai)
+<div align="center">
 
-**🎓 Academic Partners:** IIIT Hyderabad • Swecha Telangana • ACE Engineering College
+[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=for-the-badge&logo=artificial-intelligence)](https://viswam.ai)
+
+**🎓 Academic Partners:**
+- **IIIT Hyderabad** - Research & Development Guidance
+- **Swecha Telangana** - Open Source Community Support
+- **ACE Engineering College** - Academic Institution
 
 </div>
 
-## 🔗 About This Repository
+---
 
-🚀 **DynoCollect** - A production-ready data collection platform built with modern web technologies  
-⭐ **Star this repo** if you find it helpful for your projects!
+## 📈 Project Stats
 
-## 🤝 Contributing
+<div align="center">
 
-We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mohan13krishna/DynoCollect?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohan13krishna/DynoCollect?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/mohan13krishna/DynoCollect?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/mohan13krishna/DynoCollect?style=for-the-badge)
 
-### 📋 **Guidelines**
-- Follow PEP 8 for Python code
-- Add tests for new features
-- Update documentation
-- Use conventional commit messages
+</div>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2024 DynoCollect Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+```
+
+---
+
+## 🙏 Acknowledgments
+
+We extend our heartfelt gratitude to:
+
+- **[Supabase](https://supabase.com/)** - For the incredible backend-as-a-service platform
+- **[Streamlit](https://streamlit.io/)** - For the amazing web application framework
+- **[Flask](https://flask.palletsprojects.com/)** - For the robust web framework
+- **[Python Community](https://www.python.org/)** - For the powerful programming language
+- **[VISWAM.AI](https://viswam.ai/)** - For providing internship opportunities and mentorship
+- **Open Source Community** - For continuous inspiration and support
+
+---
+
+## 📞 Contact & Support
+
+<div align="center">
+
+### 🔗 **Important Links**
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-DynoCollect-success?style=for-the-badge)](https://dynocollet.streamlit.app)
+[![GitHub Repository](https://img.shields.io/badge/📁_Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect)
+[![Documentation](https://img.shields.io/badge/📚_Docs-Wiki-blue?style=for-the-badge)](https://github.com/mohan13krishna/DynoCollect/wiki)
+
+### 💬 **Get in Touch**
+
+Have questions? Need support? Want to collaborate?
+
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Us-red?style=for-the-badge)](mailto:team@dynocollet.dev)
+[![Issues](https://img.shields.io/badge/🐛_Issues-Report_Bug-orange?style=for-the-badge)](https://github.com/mohan13krishna/DynoCollect/issues)
+[![Discussions](https://img.shields.io/badge/💭_Discussions-Join_Chat-purple?style=for-the-badge)](https://github.com/mohan13krishna/DynoCollect/discussions)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 **Built with ❤️ by Team DynoCollect**
+### ⭐ **Show Your Support**
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/)
-[![Powered by Supabase](https://img.shields.io/badge/Powered%20by-Supabase-3ECF8E.svg?style=flat-square)](https://supabase.com)
-[![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B.svg?style=flat-square)](https://streamlit.io)
-[![Flask API](https://img.shields.io/badge/API-Flask-000000.svg?style=flat-square)](https://flask.palletsprojects.com)
+If you find DynoCollect helpful, please consider giving us a star!
 
-**⭐ If this project helped you, please give it a star!**
-
-**🔄 Share it with your network and help others discover DynoCollect!**
+[![Star History Chart](https://api.star-history.com/svg?repos=mohan13krishna/DynoCollect&type=Date)](https://star-history.com/#mohan13krishna/DynoCollect&Date)
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DynoCollect.readme)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/DynoCollect?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/DynoCollect?style=flat-square)
+### 🚀 **Ready to Transform Data Collection?**
 
-[🔝 **Back to Top**](#-dynocollet) | [📧 **Contact Team**](mailto:team@dynocollet.dev) | [🌐 **Live Demo**](https://dynocollet.streamlit.app)
+**[📊 Try DynoCollect Now →](https://dynocollet.streamlit.app)**
+
+---
+
+*Built with ❤️ by Team DynoCollect | Empowering Data Collection Since 2024*
+
+**© 2024 DynoCollect Team. All rights reserved.**
 
 </div>
+
+---
+
+> **⚠️ Important Note**: This project is developed for educational and research purposes during our internship at VISWAM.AI. Please use responsibly and respect the terms of service of all integrated APIs and services.
