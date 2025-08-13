@@ -1,4 +1,4 @@
-# 🚀 DynoCollect: Data Collection Revolution
+# 🚀 DynoCollect: AI Powered Streamlit Data Collection Application
 
 <div align="center">
 
