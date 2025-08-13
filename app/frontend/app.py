@@ -4,7 +4,7 @@ import json
 import time
 
 # Configure API URL
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://dynocollect.onrender.com"
 
 # Set page config
 st.set_page_config(
