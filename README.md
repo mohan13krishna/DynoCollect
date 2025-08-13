@@ -513,7 +513,7 @@ Have a great idea? We'd love to hear it:
 <td align="center" width="20%">
 <a href="https://github.com/Abhinav200519">
 <img src="https://github.com/Abhinav200519.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Abhinav Srinivas</b></h3>
+<h3><b>Abhinav Srinivas Ranga Rauthu</b></h3>
 <h4>⚙️ Backend Developer</h4>
 <p><i>CSE 4th Year</i></p>
 <p><i>"Building robust APIs"</i></p>
