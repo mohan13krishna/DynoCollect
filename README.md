@@ -1,4 +1,4 @@
-# 🚀 DynoCollect: AI-Powered Data Collection Revolution
+# 🚀 DynoCollect: Data Collection Revolution
 
 <div align="center">
 
