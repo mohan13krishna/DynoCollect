@@ -8,7 +8,7 @@ A web application for collecting user contributions in various formats (text, au
 - **Backend**: Flask
 - **Database & Storage**: Supabase
 - **Authentication**: Supabase Auth
-
+ 
 ## Project Structure
  
 ```
