@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![DynoCollect Banner](https://img.shields.io/badge/🚀_DynoCollect-Multi--Format_Data_Collection_Platform-ff6b6b?style=for-the-badge&logoColor=white)
+**📊 DynoCollect - Multi-Format Data Collection Platform**
 
-**A Modern, Secure Web Application for Collecting User Contributions**  
+*A modern, secure web application for seamless user contribution management*  
 *Text • Audio • Video • Images*
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -120,7 +120,7 @@ graph TB
 
 ```bash
 # 1. Clone and navigate
-git clone <repository-url>
+git clone https://github.com/mohan13krishna/DynoCollect.git
 cd DynoCollect
 
 # 2. Create virtual environment (RECOMMENDED)
@@ -497,112 +497,26 @@ LOG_LEVEL=DEBUG
 
 ### 🤝 **Partnership & Collaboration**
 
-**🏢 Internship Program**
+[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=flat-square)](https://viswam.ai)
 
-[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+)](https://viswam.ai)
-
-**🎓 Academic Coordination**
-- **IIIT Hyderabad** - Research & Development Guidance  
-- **Swecha Telangana** - Open Source Community Support
-
-**🏫 Institution**
-**ACE Engineering College** - Academic Foundation
+**🎓 Academic Partners:** IIIT Hyderabad • Swecha Telangana • ACE Engineering College
 
 </div>
 
-## 🏢 About This Project
+## 🔗 About This Repository
 
-<div align="center">
-
-### 🎯 **Project Mission**
-
-*"Democratizing data collection through intuitive, secure, and scalable technology"*
-
-</div>
-
-**DynoCollect** represents the culmination of our collaborative internship experience, where cutting-edge web technologies meet real-world data collection needs. This project showcases modern software engineering practices while solving genuine challenges in multi-format data aggregation.
-
-### 🌟 **Key Achievements & Learning Outcomes**
-
-#### **🛠️ Technical Mastery**
-- **Full-Stack Development**: End-to-end application development with modern frameworks
-- **Cloud Architecture**: Scalable, serverless architecture with Supabase
-- **Security Implementation**: Enterprise-grade authentication and authorization
-- **API Design**: RESTful API development with comprehensive documentation
-
-#### **👥 Collaborative Excellence**  
-- **Agile Methodology**: Sprint-based development with continuous integration
-- **Code Review Culture**: Peer reviews and collaborative problem-solving
-- **Documentation Standards**: Comprehensive technical documentation
-- **Testing Practices**: Quality assurance and automated testing strategies
-
-#### **🚀 Innovation Highlights**
-- **Multi-Modal Data Handling**: Seamless text, audio, video, and image processing
-- **Real-Time Synchronization**: Live data updates across user sessions
-- **Responsive Design**: Universal accessibility across devices and platforms
-- **Performance Optimization**: Efficient file handling and database operations
-
-### 📈 **Impact & Applications**
-
-- **📊 Research Data Collection**: Academic and industrial research applications
-- **🎓 Educational Content**: Student assignment and project submissions  
-- **💼 Business Applications**: Customer feedback and content aggregation
-- **🌐 Community Projects**: Open source contribution platforms
+🚀 **DynoCollect** - A production-ready data collection platform built with modern web technologies  
+⭐ **Star this repo** if you find it helpful for your projects!
 
 ## 🤝 Contributing
 
-<div align="center">
+We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
 
-### 🚀 **Join the DynoCollect Community!**
-
-We welcome contributions from developers of all skill levels!
-
-</div>
-
-### 📝 **How to Contribute**
-
-1. **🍴 Fork the Repository**
-   ```bash
-   git clone https://github.com/your-username/DynoCollect.git
-   ```
-
-2. **🌿 Create a Feature Branch**
-   ```bash
-   git checkout -b feature/AmazingNewFeature
-   ```
-
-3. **💻 Make Your Changes**
-   - Follow our coding standards (PEP 8 for Python)
-   - Add comprehensive comments and docstrings
-   - Write tests for new features
-
-4. **✅ Test Thoroughly**
-   ```bash
-   pytest tests/
-   python -m flake8 app/
-   ```
-
-5. **📤 Submit a Pull Request**
-   - Provide a clear description of changes
-   - Reference any related issues
-   - Include screenshots for UI changes
-
-### 🎯 **Areas for Contribution**
-
-- 🐛 **Bug Fixes**: Help us squash bugs and improve stability
-- ✨ **New Features**: Add new functionality and capabilities  
-- 📚 **Documentation**: Improve guides, tutorials, and API docs
-- 🧪 **Testing**: Expand test coverage and quality assurance
-- 🎨 **UI/UX**: Enhance user interface and experience
-- ⚡ **Performance**: Optimize speed and resource usage
-
-### 📋 **Development Guidelines**
-
-- **Code Style**: Follow PEP 8 for Python, ESLint for JavaScript
-- **Commit Messages**: Use conventional commits (feat:, fix:, docs:, etc.)
-- **Documentation**: Update README and inline docs for new features  
-- **Testing**: Maintain >90% test coverage for new code
-- **Security**: Follow OWASP guidelines for web security
+### 📋 **Guidelines**
+- Follow PEP 8 for Python code
+- Add tests for new features
+- Update documentation
+- Use conventional commit messages
 
 ---
 
