@@ -583,7 +583,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 DynoCollect Team
+Copyright (c) 2025 DynoCollect Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -649,7 +649,7 @@ If you find DynoCollect helpful, please consider giving us a star!
 
 ---
 
-*Built with ❤️ by Team DynoCollect | Empowering Data Collection Since 2024*
+*Built with ❤️ by Team DynoCollect | Empowering Data Collection Since 2025*
 
 **© 2024 DynoCollect Team. All rights reserved.**
 
