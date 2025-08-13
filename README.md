@@ -10,7 +10,7 @@ A web application for collecting user contributions in various formats (text, au
 - **Authentication**: Supabase Auth
 
 ## Project Structure
-
+ 
 ```
 .
 ├── app/
