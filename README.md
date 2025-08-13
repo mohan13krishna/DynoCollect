@@ -1,4 +1,4 @@
-# 🚀 DynoCollect: AI-Powered Streamlit Data Collection Application
+# 🚀 DynoCollect: AI-Powered Data Collection Revolution
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 ### 📊 A Revolutionary Multi-Format Data Collection Platform
   
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-success?style=for-the-badge)](https://dynocollet.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-success?style=for-the-badge)](https://dynocollect.streamlit.app/)
 [![GitHub Stars](https://img.shields.io/badge/⭐_Star_This_Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?style=for-the-badge&logo=python)](https://python.org)
@@ -56,6 +56,88 @@ Powered by **Supabase** for backend services and **Streamlit** for the frontend 
 - **Modular Design**: Scalable architecture with separation of concerns
 - **Easy Integration**: Simple setup and deployment process
 - **Comprehensive Documentation**: Detailed guides for developers and users
+
+---
+
+## 🌟 Meet Our Amazing Team
+
+<div align="center">
+
+### 💫 The Brilliant Minds Behind DynoCollect 💫
+*Five passionate developers from ACE Engineering College*
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/mohan13krishna">
+<img src="https://github.com/mohan13krishna.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Mohan Krishna Thalla</b></h3>
+<h4>🎯 Team Lead & Full-Stack Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Architecting scalable solutions"</i></p>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/rakeshkolipakaace">
+<img src="https://github.com/rakeshkolipakaace.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Rakesh Kolipaka</b></h3>
+<h4>🎨 Frontend Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Creating beautiful interfaces"</i></p>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Abhinav200519">
+<img src="https://github.com/Abhinav200519.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Abhinav Srinivas Ranga Rauthu</b></h3>
+<h4>⚙️ Backend Developer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Building robust APIs"</i></p>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/sainikith07">
+<img src="https://github.com/sainikith07.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Sai Nikith Kaleru</b></h3>
+<h4>📊 Data Engineer</h4>
+<p><i>CSD 4th Year</i></p>
+<p><i>"Optimizing data pipelines"</i></p>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/rvrnihal">
+<img src="https://github.com/rvrnihal.png" width="120px" style="border-radius: 50%;"/><br/>
+<h3><b>Rao Ram Nihal</b></h3>
+<h4>🧪 QA Engineer</h4>
+<p><i>CSE 4th Year</i></p>
+<p><i>"Ensuring quality & reliability"</i></p>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏢 About This Project
+
+### 🎯 **Mission & Vision**
+
+#### 🚀 **Our Mission**
+*"Revolutionizing data collection through intelligent, secure, and user-friendly multi-format contribution platforms designed for the modern digital era."*
+
+#### 🎯 **Our Vision**
+*"Creating a world where data collection is seamless, secure, and accessible, empowering organizations to gather meaningful insights while respecting user privacy and providing exceptional experiences."*
+
+### 🤝 **Partnership & Collaboration**
+
+[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=for-the-badge&logo=artificial-intelligence)](https://viswam.ai)
+
+**🎓 Academic Partners:**
+- **IIIT Hyderabad** - Research & Development Guidance
+- **Swecha Telangana** - Open Source Community Support
+- **ACE Engineering College** - Academic Institution
 
 ---
 
@@ -481,92 +563,6 @@ Have a great idea? We'd love to hear it:
 
 ---
 
-## 🌟 Meet Our Amazing Team
-
-<div align="center">
-
-### 💫 The Brilliant Minds Behind DynoCollect 💫
-*Five passionate developers from ACE Engineering College*
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/mohan13krishna">
-<img src="https://github.com/mohan13krishna.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Mohan Krishna Thalla</b></h3>
-<h4>🎯 Team Lead & Full-Stack Developer</h4>
-<p><i>CSE 4th Year</i></p>
-<p><i>"Architecting scalable solutions"</i></p>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/rakeshkolipakaace">
-<img src="https://github.com/rakeshkolipakaace.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Rakesh Kolipaka</b></h3>
-<h4>🎨 Frontend Developer</h4>
-<p><i>CSE 4th Year</i></p>
-<p><i>"Creating beautiful interfaces"</i></p>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Abhinav200519">
-<img src="https://github.com/Abhinav200519.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Abhinav Srinivas</b></h3>
-<h4>⚙️ Backend Developer</h4>
-<p><i>CSE 4th Year</i></p>
-<p><i>"Building robust APIs"</i></p>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/sainikith07">
-<img src="https://github.com/sainikith07.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Sai Nikith Kaleru</b></h3>
-<h4>📊 Data Engineer</h4>
-<p><i>CSD 4th Year</i></p>
-<p><i>"Optimizing data pipelines"</i></p>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/rvrnihal">
-<img src="https://github.com/rvrnihal.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Rao Ram Nihal</b></h3>
-<h4>🧪 QA Engineer</h4>
-<p><i>CSE 4th Year</i></p>
-<p><i>"Ensuring quality & reliability"</i></p>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-## 🏢 About This Project
-
-### 🎯 **Mission & Vision**
-
-#### 🚀 **Our Mission**
-*"Revolutionizing data collection through intelligent, secure, and user-friendly multi-format contribution platforms designed for the modern digital era."*
-
-#### 🎯 **Our Vision**
-*"Creating a world where data collection is seamless, secure, and accessible, empowering organizations to gather meaningful insights while respecting user privacy and providing exceptional experiences."*
-
-### 🤝 **Partnership & Collaboration**
-
-<div align="center">
-
-[![VISWAM.AI](https://img.shields.io/badge/Internship_Host-VISWAM.AI-orange?style=for-the-badge&logo=artificial-intelligence)](https://viswam.ai)
-
-**🎓 Academic Partners:**
-- **IIIT Hyderabad** - Research & Development Guidance
-- **Swecha Telangana** - Open Source Community Support
-- **ACE Engineering College** - Academic Institution
-
-</div>
-
----
-
 ## 📈 Project Stats
 
 <div align="center">
@@ -621,7 +617,7 @@ We extend our heartfelt gratitude to:
 
 ### 🔗 **Important Links**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-DynoCollect-success?style=for-the-badge)](https://dynocollet.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-DynoCollect-success?style=for-the-badge)](https://dynocollect.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/📁_Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect)
 [![Documentation](https://img.shields.io/badge/📚_Docs-Wiki-blue?style=for-the-badge)](https://github.com/mohan13krishna/DynoCollect/wiki)
 
@@ -649,7 +645,7 @@ If you find DynoCollect helpful, please consider giving us a star!
 
 ### 🚀 **Ready to Transform Data Collection?**
 
-**[📊 Try DynoCollect Now →](https://dynocollet.streamlit.app)**
+**[📊 Try DynoCollect Now →](https://dynocollect.streamlit.app/)**
 
 ---
 
