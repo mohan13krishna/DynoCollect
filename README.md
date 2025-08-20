@@ -5,7 +5,7 @@
 ![DynoCollect Logo](https://img.shields.io/badge/DynoCollect-Multi%20Format%20Collection-blue?style=for-the-badge&logo=database&logoColor=white)
 
 ### 📊 A Revolutionary Multi-Format Data Collection Platform
-  
+   
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-success?style=for-the-badge)](https://dynocollect.streamlit.app/)
 [![GitHub Stars](https://img.shields.io/badge/⭐_Star_This_Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
