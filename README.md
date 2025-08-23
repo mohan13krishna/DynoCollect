@@ -10,7 +10,7 @@
 [![GitHub Stars](https://img.shields.io/badge/⭐_Star_This_Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/DynoCollect/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?style=for-the-badge&logo=python)](https://python.org)
-
+ 
 *Transforming data collection through intelligent multi-format contribution management*
 
 </div>
